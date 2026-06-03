@@ -248,9 +248,9 @@
         "external": true
       },
       {
-        "title": "Live portfolio",
-        "href": "https://yourportfolio.example.com",
-        "linkText": "yourportfolio.example.com",
+        "title": "Projects Showcase",
+        "href": "https://projects-showcase-coral.vercel.app",
+        "linkText": "projects-showcase-coral.vercel.app",
         "external": true
       }
     ]
