@@ -23,7 +23,7 @@
     {
       "icon": "mdi:web",
       "iconBgClass": "portfolio-site",
-      "href": "https://yourportfolio.example.com"
+      "href": "https://projects-showcase-coral.vercel.app"
     },
     {
       "icon": "fa-brands:linkedin",
