@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shameer125/portfolioReact/blob/main/banner.png" width="100%" />
+  <img src="https://github.com/shameercodes/portfolioReact/blob/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shameer Ali</h1>
@@ -55,11 +55,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shameer125&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shameercodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-  <img src="https://streak-stats.demolab.com?user=shameer125&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shameercodes&theme=tokyonight" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameer125&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameercodes&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shameer125&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shameercodes&theme=react-dark"/>
 </p>
 
 ---
@@ -98,7 +98,7 @@
 
 <p align="center">
 
-<a href="https://github.com/shameer125">
+<a href="https://github.com/shameercodes">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
