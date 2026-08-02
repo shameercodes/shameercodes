@@ -18,7 +18,7 @@
     {
       "icon": "fa-brands:github",
       "iconBgClass": "github",
-      "href": "https://github.com/shameer125"
+      "href": "https://github.com/shameercodes"
     },
     {
       "icon": "mdi:web",
@@ -61,7 +61,7 @@
           "langages": "JavaScript (ES6+), HTML5, CSS3",
           "platform": "MERN Stack (MongoDB, Express.js, React.js, Node.js)",
           "liveUrl": "https://minis-ecom-mern-stack-fxdr.vercel.app/",
-          "url": "https://github.com/shameer125/Minis-Ecom-MernStack"
+          "url": "https://github.com/shameercodes/Minis-Ecom-MernStack"
         }
       },
       {
@@ -77,7 +77,7 @@
           "langages": "HTML, CSS, JavaScript, React.js",
           "platform": "Modern Web Stack (React + Vite)",
           "liveUrl": "https://luxe-shop-qweu.vercel.app/",
-          "url": "https://github.com/shameer125/luxeShop"
+          "url": "https://github.com/shameercodes/luxeShop"
         }
       },
       {
@@ -93,7 +93,7 @@
           "langages": "JavaScript (ES6+), JSX, HTML5, CSS3 (SCSS)",
           "platform": "React 19 (Vite), Redux Toolkit, React Router 7",
           "liveUrl": "https://hotel-booking-platform-ivory.vercel.app/",
-          "url": "https://github.com/shameer125/Hotel-Booking-Platform"
+          "url": "https://github.com/shameercodes/Hotel-Booking-Platform"
         }
       },
         {
@@ -109,7 +109,7 @@
           "langages": "JavaScript (ES6+), JSX, HTML5, CSS3",
           "platform": "React 18 (Vite), React Router, Tailwind CSS",
           "liveUrl": "https://doctor-appointment-tan-nu.vercel.app/",
-          "url": "https://github.com/shameer125/doctor-appointment"
+          "url": "https://github.com/shameercodes/doctor-appointment"
         }
       },
        {
@@ -125,7 +125,7 @@
           "langages": "TypeScript, JavaScript (ES6+), HTML5, CSS3",
           "platform": "React 19 (Vite), Zustand, React Router 7, TanStack Query",
           "liveUrl": "https://business-dashboard-beta.vercel.app",
-          "url": "https://github.com/shameer125/Business_Dashboard"
+          "url": "https://github.com/shameercodes/Business_Dashboard"
         }
       }
 
@@ -243,8 +243,8 @@
       },
       {
         "title": "GitHub",
-        "href": "https://github.com/shameer125",
-        "linkText": "github.com/shameer125",
+        "href": "https://github.com/shameercodes",
+        "linkText": "github.com/shameercodes",
         "external": true
       },
       {
