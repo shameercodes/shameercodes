@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shameercodes/portfolioReact/blob/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/shameercodes/portfolio/main/public/shameer-banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shameer Ali</h1>
