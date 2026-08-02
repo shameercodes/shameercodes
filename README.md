@@ -15,12 +15,12 @@
 ## 👨‍💻 About Me
 
 - 🎓 BS Computer Science Student at **Agriculture University Peshawar**
-- 💻 Passionate **MERN Stack Developer (MongoDB, Express, React, Node.js)**
-- ⚡ Strong focus on **Frontend + Full Stack Web Development**
-- 🌱 Currently learning **Next.js, Advanced Backend Systems & Data Science**
-- 🎯 Goal: Become a **Professional Software Engineer**
-- 💬 Ask me about **React, JavaScript, APIs, Full Stack Development**
-- 🚀 Love building **real-world scalable projects**
+- 💻 MERN Stack Developer specializing in **MongoDB, Express.js, React.js, and Node.js**
+- ⚡ Building **modern, responsive, and scalable full-stack web applications**
+- 🌱 Exploring **Next.js, TypeScript, and Advanced Backend Development**
+- 🎯 Aspiring to become a **Professional Software Engineer**
+- 💬 Skilled in **React, JavaScript, REST APIs, and Full-Stack Development**
+- 🚀 Passionate about creating **real-world projects and solving problems through code**
 
 ---
 
